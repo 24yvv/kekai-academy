@@ -1,3 +1,4 @@
-yaml
+title: Keikai Academy
+description: Redirect to Keikai Academy Discord Server
 plugins:
   - jekyll-redirect-from
